@@ -61,7 +61,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. This challenge should take around 3 hours
 
 #### Acceptance Criteria:
-*Please meet as many of the following criteria as you can in the allotted time*
+**Please meet as many of the following criteria as you can in the allotted time**
 
 1. Build a `<Section />` component from `episodes`:
    * Screen width > 1069px:
